@@ -1,4 +1,4 @@
-# Stock Exchange simulator
+# Stock Exchange Simulator
 ### Table of Contents
 ##### 1. [Introduction](#Introduction)
 ##### 2. [Goals](#Goals)
