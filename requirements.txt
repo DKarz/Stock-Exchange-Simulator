@@ -78,7 +78,7 @@ prometheus-client==0.8.0
 prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pycparser==2.20
-Pygments==2.6.1
+Pygments==2.7.4
 PyInstaller==3.6
 pyparsing==2.4.6
 PyQt5==5.14.1
