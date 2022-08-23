@@ -54,7 +54,7 @@ MechanicalSoup==0.11.0
 mistune==0.8.4
 mpl-finance==0.10.1
 mplcursors==0.3
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.6
 notebook==6.0.3
 numpy==1.18.1
